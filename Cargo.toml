@@ -1,0 +1,8 @@
+[package]
+name = "ollama-rag-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ollama-rs = "0.1.5"
+tokio = "1.35.1"
